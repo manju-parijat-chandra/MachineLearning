@@ -5,3 +5,4 @@ DataBox/movie_titles_metadata.tsv
 DataBox/placement.csv
 DataBox/zomato.csv
 DataBox/test.csv
+DataBox/recipe.json
