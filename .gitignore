@@ -14,3 +14,7 @@ DataBox/wine_data.csv
 DataBox/customer.csv
 DataBox/cars.csv
 DataBox/covid_gen.csv
+DataBox/titanic_prepsd.csv
+PickelFiles/wp_clf.pkl
+PickelFiles/wp_ohe_embarked.pkl
+PickelFiles/wp_ohe_sex.pkl
