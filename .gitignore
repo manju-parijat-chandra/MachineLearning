@@ -18,3 +18,4 @@ DataBox/titanic_prepsd.csv
 PickelFiles/wp_clf.pkl
 PickelFiles/wp_ohe_embarked.pkl
 PickelFiles/wp_ohe_sex.pkl
+PickelFiles/pipe.pkl
