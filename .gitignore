@@ -33,3 +33,4 @@ DataBox/weight-height.csv
 DataBox/mnist.csv
 DataBox/placement_package.csv
 DataBox/lrAssumption.csv
+DataBox/heart_disease.csv
